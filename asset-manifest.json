@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JS_Theme_Changer_App/static/css/main.642cfc8e.css",
+    "main.js": "/JS_Theme_Changer_App/static/js/main.61e4979f.js",
+    "static/js/787.fee6f9bb.chunk.js": "/JS_Theme_Changer_App/static/js/787.fee6f9bb.chunk.js",
+    "index.html": "/JS_Theme_Changer_App/index.html",
+    "main.642cfc8e.css.map": "/JS_Theme_Changer_App/static/css/main.642cfc8e.css.map",
+    "main.61e4979f.js.map": "/JS_Theme_Changer_App/static/js/main.61e4979f.js.map",
+    "787.fee6f9bb.chunk.js.map": "/JS_Theme_Changer_App/static/js/787.fee6f9bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.642cfc8e.css",
+    "static/js/main.61e4979f.js"
+  ]
+}
